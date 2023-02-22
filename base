@@ -4,5 +4,11 @@ b=2
 c=3
 a+b=3
 a-b=1
+<<<<<<< HEAD
 prnit a+b-c=0
 succes
+=======
+print a+b-c=0
+successsi
+					
+>>>>>>> dev
