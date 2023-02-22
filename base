@@ -4,4 +4,5 @@ b=2
 c=3
 a+b=3
 a-b=1
-
+prnit a+b-c=0
+succes
